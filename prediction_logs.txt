@@ -1,2 +1,3 @@
 2026-03-02 01:23:11,646 - INFO - Applicant={'age': 35, 'income': 50000.0, 'loan_amount': 40000.0, 'credit_score': 550, 'employment_years': 5} | Probability=0.9296 | Threshold=0.45 | Prediction=1 | Decision=Reject Loan
 2026-03-02 01:26:44,210 - INFO - Applicant={'age': 35, 'income': 50000.0, 'loan_amount': 40000.0, 'credit_score': 550, 'employment_years': 5} | Probability=0.9296 | Prediction=1 | Decision=Reject Loan | TopFactors=['income', 'loan_amount', 'credit_score']
+2026-03-11 13:22:58,329 - INFO - Applicant={'age': 30, 'income': 40000.0, 'loan_amount': 50000.0, 'credit_score': 550, 'employment_years': 3} | Probability=0.9782 | Prediction=1 | Decision=Reject Loan | TopFactors=['income', 'loan_amount', 'employment_years']
